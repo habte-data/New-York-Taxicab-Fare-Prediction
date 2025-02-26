@@ -5,7 +5,7 @@
 This project focuses on predicting taxi fares in New York City using machine learning techniques. The dataset, collected from the **TLC New York City Taxi Data Collection (2016)**, contains trip details such as pickup and drop-off locations, timestamps, distance traveled, and fare amounts.  
 
 ## **Dataset Information**  
-- **Source:** [TLC NYC Taxi Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)  
+- **Source:** [Kaggle - NYC Yellow Taxi Trip Records (2023)](https://www.kaggle.com/datasets/nagasai524/nyc-taxi-trip-records-from-jan-2023-to-jun-2023)  
 - **Timeframe:** February 2016  
 - **Shape:** `(500,000 rows × 12 columns)`  
 - **Attributes:**  
